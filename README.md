@@ -1,12 +1,12 @@
-Hi 👋 My name is Paulo Oliveira
+Olá 👋 eu me chamo Paulo Oliveira
 ===============================
 
 Web Developer and Smart TV Developer
 ------------------------------------
 
-* 🌍  I'm based in Rio de Janeiro
-* 🖥️  See my portfolio at [umdevqualquer.com.br](http://umdevqualquer.com.br)
-* 🚀  I'm currently working on [Globo](http://globo.com)
+* 🌍  Rio de Janeiro.
+* 🖥️  Veja meu blog em [umdevqualquer.com.br](http://umdevqualquer.com.br).
+* 🚀  Atualmente trabalhando na [Globo](http://globo.com).
 
 <a href="https://www.twitter.com/paulofrauches" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/paulofrauches?logo=twitter&style=for-the-badge&color=6366f1&labelColor=ffffff"
