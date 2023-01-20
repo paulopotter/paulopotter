@@ -39,9 +39,9 @@ src="https://img.shields.io/github/followers/paulopotter?logo=github&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/paulopotter"><img src="https://github-readme-stats.vercel.app/api?username=paulopotter&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=64748b&icon_color=6366f1&bg_color=ffffff&hide_border=true&show_icons=true" alt="paulopotter's GitHub stats" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=paulopotter&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=64748b&icon_color=6366f1&bg_color=ffffff&hide_border=true&show_icons=true" alt="paulopotter's GitHub stats" />
 
-<a href="https://github.com/paulopotter" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopotter&langs_count=10&title_color=0f172a&text_color=64748b&icon_color=6366f1&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopotter&langs_count=10&title_color=0f172a&text_color=64748b&icon_color=6366f1&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 
 ### Support Me
 
