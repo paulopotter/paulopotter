@@ -8,8 +8,8 @@ Web Developer and Smart TV Developer
 * 🖥️  Veja meu blog em [umdevqualquer.com.br](http://umdevqualquer.com.br).
 * 🚀  Atualmente trabalhando na [Globo](http://globo.com).
 
-<a href="https://www.twitter.com/paulofrauches" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/paulofrauches?logo=twitter&style=for-the-badge&color=6366f1&labelColor=ffffff"
+<a href="https://www.twitter.com/o_umdevqualquer" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/o_umdevqualquer?logo=twitter&style=for-the-badge&color=6366f1&labelColor=ffffff"
 /></a><a href="https://www.github.com/paulopotter" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/paulopotter?logo=github&style=for-the-badge&color=6366f1&labelColor=ffffff" /></a>
 
